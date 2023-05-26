@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer and CyberSecurity Graduate. 💻
 
-* 👨‍💻  Currently mostly into web & mobile App. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+* 👨‍💻  Currently mostly into web & mobile Application Development.
 * 🤝  Open Source Enthusiast
 * 🎓  CyberSecurity Graduate (https://acpass.zu.ac.ae/en/credentials/shared/c4261410440e38406dc690add3cbc02f) 
 * 🏫  Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
