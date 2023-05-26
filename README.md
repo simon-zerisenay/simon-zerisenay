@@ -92,7 +92,7 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
   </div>
   
-                                                ###Personal Projects 
+                                                ### Personal Projects 
                                                 
 <div align="center" >
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
