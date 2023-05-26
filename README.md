@@ -96,10 +96,10 @@
                                                 
 <div align="center" justify-content = "space-between">
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" height="200" width="200" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" padding="20" height="200" width="200" alt="twitter logo"  />
   </a>
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" height="200" width="200" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" padding="20" height="200" width="200" alt="twitter logo"  />
   </a>
    </div>  
   
