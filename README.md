@@ -78,7 +78,7 @@
 
 ###
 
-### 42 School Projects
+                                                          ### 42 School Projects
 <div align="center">
   
 <a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
