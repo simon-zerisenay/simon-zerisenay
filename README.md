@@ -3,7 +3,6 @@
 <br/>
 
 <h4> Full-Stack Developer and CyberSecurity Graduate. 💻 </h4>
-<br/>
 * 👨‍💻  Currently mostly into web & mobile Application Development.
 * 🎓  CyberSecurity Graduate (https://acpass.zu.ac.ae/en/credentials/shared/c4261410440e38406dc690add3cbc02f) 
 * 🏫  Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
