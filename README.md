@@ -4,9 +4,9 @@
 
 * 👨‍💻  Currently mostly into web & mobile App. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
-* 🌍  Based in United Arab Emirated  🇦🇪
 * 🎓  CyberSecurity Graduate 
 * 🏫  Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
+* 🌍  Based in United Arab Emirated  🇦🇪
 * 🖥️  Check out my portfolio at [https://github.com/simon-zerisenay/PersonalPortfolio](https://github.com/simon-zerisenay/PersonalPortfolio)
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
