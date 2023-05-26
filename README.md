@@ -5,6 +5,7 @@
 * 👨‍💻  Currently mostly into web & mobile App. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
 * 🌍  Based in United Arab Emirated  🇦🇪
+* 🎓  CyberSecurity Graduate 
 * 🏫  Student @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🖥️  Check out my portfolio at [https://github.com/simon-zerisenay/PersonalPortfolio](https://github.com/simon-zerisenay/PersonalPortfolio)
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
