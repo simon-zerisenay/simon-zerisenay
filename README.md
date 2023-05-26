@@ -94,7 +94,7 @@
   
                                                 ###Personal Projects 
                                                 
-<div align="center" justify-content = "space-between">
+<div align="center" >
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" align="left" padding="20" height="200" width="200" alt="twitter logo"  />
   </a>
