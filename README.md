@@ -1,3 +1,4 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h2 align="center">Hi 👋, I'm Simon Zerisenay Ghebremeskel </h2>
 
 ### Full-Stack Developer and CyberSecurity Graduate. 💻
@@ -86,6 +87,9 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
 
+  If You like what I do maybe consider buying me a coffeeeeee
+    <a href="https://bmc.link/simonzerisUt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+  
 
 
 ![Snake animation](https://github.com/simon-zerisenay/simon-zerisenay/blob/output/github-contribution-grid-snake.svg)
