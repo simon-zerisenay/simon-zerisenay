@@ -98,11 +98,12 @@
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" align="left" padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-  <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
+  <a href="https://simon-zerisenay.github.io/Simon_Online_Library/" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/simononlinelibrary.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" align="right" padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
+    
    </div>  
   
   
