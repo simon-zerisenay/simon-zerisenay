@@ -77,8 +77,8 @@
 <a href="https://github.com/simon-zerisenay/Solong">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
 <a href="https://github.com/simon-zerisenay/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
 <a href="https://github.com/simon-zerisenay/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
 (https://user-images.githubusercontent.com/111196709/228958734-85033741-0e75-4862-911d-90e58eec6ce3.jpeg)</a>
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=00001a&color=708090&line=f1f2f4&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
