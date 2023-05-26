@@ -96,12 +96,12 @@
                                                 
 <div align="center" >
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" align="left" padding="20" height="200" width="200" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" align="left" padding="20" height="150" width="200" alt="twitter logo"  />
   </a>
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/simononlinelibrary.png"  padding="20" height="200" width="200" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/simononlinelibrary.png"  padding="20" height="150" width="200" alt="twitter logo"  />
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" align="right" padding="20" height="200" width="200" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" align="right" padding="20" height="150" width="200" alt="twitter logo"  />
   </a>
    </div>  
   
