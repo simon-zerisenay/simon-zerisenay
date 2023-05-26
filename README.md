@@ -95,7 +95,7 @@
                                                 ###Personal Projects 
                                                 
 <div align="center">
-<a href="https://github.com/kmalae/Kmalae">![42 Badge](https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png)></a>
+<a href="https://github.com/kmalae/Kmalae"><img>https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png)></img></a>
 <!-- <a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
