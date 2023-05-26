@@ -12,7 +12,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="350" height="250"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="550" height="250"/>
 
 ### Tools and Tech I'm passionate about () => {
 
