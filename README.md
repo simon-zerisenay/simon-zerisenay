@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="350" height="250"/>
 
-### Tech I'm passionate about () => {
+### Tools and Tech I'm passionate about () => {
 
 <div style="display: flex;gap:'10px'">
   <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" /></a>
