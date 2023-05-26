@@ -95,20 +95,20 @@
                                                 ### Personal Projects 
                                                 
 <div align="center" >
-  <div>
+<!--   <div> -->
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png"   padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-  </div>
-  <div>
+<!--   </div> -->
+<!--   <div> -->
   <a href="https://simon-zerisenay.github.io/Simon_Online_Library/" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/simononlinelibrary.png"  padding="20" height="170" width="200" alt="twitter logo"  />
-    </div>
-    <div">
+<!--     </div> -->
+<!--     <div"> -->
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-    </div>
+<!--     </div> -->
     
    </div>  
   
