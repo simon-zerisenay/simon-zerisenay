@@ -77,3 +77,4 @@
 
 
 
+![Snake animation](https://github.com/simon-zerisenay/simon-zerisenay/blob/output/github-contribution-grid-snake.svg)
