@@ -3,7 +3,6 @@
 ### Full-Stack Developer and CyberSecurity Graduate. 💻
 
 * 👨‍💻  Currently mostly into web & mobile Application Development.
-* 🤝  Open Source Enthusiast
 * 🎓  CyberSecurity Graduate (https://acpass.zu.ac.ae/en/credentials/shared/c4261410440e38406dc690add3cbc02f) 
 * 🏫  Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🌍  Based in United Arab Emirated  🇦🇪
