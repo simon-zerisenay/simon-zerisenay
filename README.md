@@ -70,9 +70,9 @@
 ### 42 School Projects
 <div align="center">
   
-<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
 <a href="https://github.com/simon-zerisenay/Solong">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
 <a href="https://github.com/simon-zerisenay/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
