@@ -77,7 +77,7 @@
 
 ###
 
-                                                   ### 42 School Projects
+                                                ### 42 School Projects
 <div align="center">
   
 <a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
@@ -90,7 +90,9 @@
 <a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
-
+  
+  
+                                                ###Personal Projects 
 <!--   If You like what I do maybe consider buying me a coffeeeeee
   <br/>
    <a href="https://bmc.link/simonzerisUt" target="_blank" rel="noreferrer nofollow">
