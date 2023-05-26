@@ -7,7 +7,7 @@
 * 🎓  CyberSecurity Graduate (https://acpass.zu.ac.ae/en/credentials/shared/c4261410440e38406dc690add3cbc02f) 
 * 🏫  Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🌍  Based in United Arab Emirated  🇦🇪
-* 🖥️  Check out my portfolio at [https://github.com/simon-zerisenay/PersonalPortfolio](https://github.com/simon-zerisenay/PersonalPortfolio)
+* 🖥️  Check out my portfolio at [https://github.com/simon-zerisenay/PersonalPortfolio](https://simon-zerisenay.github.io/PersonalPortfolio/)
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
 <br />
