@@ -96,7 +96,7 @@
                                                 
 <div align="center">
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" height="75" width="75" alt="twitter logo"  />
+    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" height="100" width="100" alt="twitter logo"  />
   </a>
   
   
