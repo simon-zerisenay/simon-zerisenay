@@ -8,7 +8,7 @@
 * 🎓  CyberSecurity Graduate 
 * 🏫  Student @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🖥️  Check out my portfolio at [https://github.com/simon-zerisenay/PersonalPortfolio](https://github.com/simon-zerisenay/PersonalPortfolio)
-* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
+* 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
 <br />
 
