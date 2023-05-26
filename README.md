@@ -93,8 +93,10 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
 
   If You like what I do maybe consider buying me a coffeeeeee
-    <a href="https://bmc.link/simonzerisUt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  
+   <a href="https://bmc.link/simonzerisUt" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+
 
 
 ![Snake animation](https://github.com/simon-zerisenay/simon-zerisenay/blob/output/github-contribution-grid-snake.svg)
