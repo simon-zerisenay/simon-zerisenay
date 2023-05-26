@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" flex="row">
   <a href="https://www.linkedin.com/in/simon-z-ghebremeskel-232220193/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
