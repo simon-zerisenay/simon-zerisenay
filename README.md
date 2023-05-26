@@ -94,15 +94,14 @@
   
                                                 ###Personal Projects 
                                                 
-<div align="center">
+<div align="center" justify-content = "space-between">
     <a href="https://github.com/kmalae/Kmalae" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png" height="200" width="200" alt="twitter logo"  />
   </a>
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png" height="200" width="200" alt="twitter logo"  />
   </a>
-  
-  
+   </div>  
   
   
   
@@ -116,7 +115,7 @@
 <a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a> -->
-  </div>                            
+                           
 <!--   If You like what I do maybe consider buying me a coffeeeeee
   <br/>
    <a href="https://bmc.link/simonzerisUt" target="_blank" rel="noreferrer nofollow">
