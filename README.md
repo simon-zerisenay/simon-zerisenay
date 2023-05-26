@@ -42,10 +42,8 @@
 ### }
 
 <br />
-
-
+                                                          ### My GitHub Stats
 <div align="center">
-  ### My GitHub Stats
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
 </div>
