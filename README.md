@@ -50,8 +50,8 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/aztaro97"><img src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-zerisenay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent"/>
+<a href="http://www.github.com/simon-zerisenay"><img src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
+<a href="http://www.github.com/simon-zerisenay"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-zerisenay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent"/></a>
 
 ###
 ##
