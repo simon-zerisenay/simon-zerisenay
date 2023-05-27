@@ -72,7 +72,7 @@
 
 ###
 
-                                                ### 42 School Projects
+                                                 <h2> 42 School Projects </h2>
 <div align="center">
   
 <a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
@@ -87,7 +87,7 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
   </div>
   
-                                                ### Personal Projects 
+                                                <h2> Personal Projects </h2>
                                                 
 <div align="center" >
  <a href="https://github.com/kmalae/Kmalae" target="_blank">
