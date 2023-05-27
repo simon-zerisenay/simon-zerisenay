@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
+<br/>
 <h2 align="center"> 42 School Projects </h2>
 <br/>
 <div align="center">
@@ -85,7 +85,7 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
  </div>
-  
+  <br/>
 <h2 align="center"> Personal Projects </h2>
                                                 
 <div align="center" >
