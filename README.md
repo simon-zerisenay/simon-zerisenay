@@ -116,7 +116,7 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChineduGboof&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
