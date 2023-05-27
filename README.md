@@ -112,7 +112,7 @@
     
    </div>  
   <div align="center">
-  <h4> ✍️ Random Dev Quote </h4>
+  <h4> ✍️ Dev Quote of the Day</h4>
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
