@@ -70,9 +70,8 @@
   </a>
 </div>
 
-###
-
-                                                 <h2> 42 School Projects </h2>
+<h2 align="center"> 42 School Projects </h2>
+<br/>
 <div align="center">
   
 <a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
@@ -85,9 +84,9 @@
 <a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
-  </div>
+ </div>
   
-                                                <h2> Personal Projects </h2>
+<h2 align="center"> Personal Projects </h2>
                                                 
 <div align="center" >
  <a href="https://github.com/kmalae/Kmalae" target="_blank">
