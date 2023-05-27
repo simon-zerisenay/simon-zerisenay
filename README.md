@@ -116,8 +116,9 @@
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-    [![](https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a>
   </div>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
