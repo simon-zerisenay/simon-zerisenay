@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/>
 
-### Tools and Tech I'm passionate about () => {
+### 💻 Tools and Tech stack () => {
 
 <div style="display: flex;gap:'10px'" align="left">
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" /></a>
@@ -130,7 +130,7 @@
    <a href="https://bmc.link/simonzerisUt" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a> -->
-
+[![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 <!-- ![Snake animation](https://github.com/simon-zerisenay/simon-zerisenay/blob/output/github-contribution-grid-snake.svg) -->
