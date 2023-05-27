@@ -97,6 +97,11 @@
   <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
+   <a href="https://github.com/simon-zerisenay/Student-Guide-and-Qoura" target="_blank">
+    <img src="https://github.com/simon-zerisenay/Student-Guide-and-Qoura/blob/master/StudentGuidenQoura.png"  padding="20" height="170" width="200" alt="twitter logo"  />
+  </a>
+   
+    Empowering Student Success.
    </div>  
   <br/>
   <div align="center">
