@@ -47,14 +47,7 @@
 <div align="center">
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&show_icons=true&langs_count=10" alt="Simon's GitHub stats" /></a>
-  <br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=simon-zerisenay&theme=react&hide_border=false)
 </div>
-  <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yonatan46&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" /> -->
-<!-- <a href="http://www.github.com/simon-zerisenay"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-zerisenay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent"/></a> -->
-
-###
-##
 
 
 <br clear="both">
