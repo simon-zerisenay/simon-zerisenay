@@ -112,10 +112,16 @@
     
    </div>  
     ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
   
-  <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="80%" src="https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1" alt="Simon's GitHub stats" /></a>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ChineduGboof&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
+   -->
+<!--   <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="80%" src="https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1" alt="Simon's GitHub stats" /></a> -->
  
 <!-- <a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
