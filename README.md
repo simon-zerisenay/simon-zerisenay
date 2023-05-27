@@ -111,13 +111,15 @@
 <!--     </div> -->
     
    </div>  
-    ### ✍️ Random Dev Quote
+  <div align="center">
+  <h4> ✍️ Random Dev Quote </h4>
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
 
+  </div>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=simon-zerisenay&icon=2&color=1)](https://visitcount.itsvg.in)
    -->
