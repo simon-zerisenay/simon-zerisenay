@@ -88,7 +88,7 @@
 <h2 align="center"> Personal Projects </h2>
                                                 
 <div align="center" >
- <a href="https://github.com/kmalae/Kmalae" target="_blank">
+ <a href="https://github.com/simon-zerisenay/Kmalae.ltd" target="_blank">
     <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png"   padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
   <a href="https://simon-zerisenay.github.io/Simon_Online_Library/" target="_blank">
