@@ -1,4 +1,9 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center" style="margin-bottom=100px">
+  <a>
+    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
+  </a>
+</div>
 <h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>
 <br/>
 
@@ -11,12 +16,7 @@
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
 <br /> 
-<div align="center" style="margin-bottom=50px">
-  <a>
-    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
-  </a>
- 
-</div>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/>
 
 ### 💻 Tools and Tech stack () => {
