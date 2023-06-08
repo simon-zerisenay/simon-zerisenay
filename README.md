@@ -11,9 +11,9 @@
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
 <br /> 
-<div align="center">
+<div align="center" style="margin-bottom=50px">
   <a>
-    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Simon" </img>
+    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
   </a>
  
 </div>
