@@ -3,7 +3,7 @@
   <a>
     <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
   </a>
-</div> 
+</div>  
 <h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>
 <br/> 
 
