@@ -7,7 +7,7 @@
 <h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>  
 <br/>     
  
-###Full-Stack Developer and CyberSecurity Graduate. 💻 
+###Full-Stack Developer and CyberSecurity Graduate. 💻  
 * 👨‍💻  Currently mostly into web & mobile Application Development.
 * 🎓  CyberSecurity Graduate <a href="https://acpass.zu.ac.ae/en/credentials/shared/94efe23c2fbe07e133553c47af0e54ca"><i>Graduate Diploma</i></a>
 * 🏫  Working as a FullStack Developer and Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
