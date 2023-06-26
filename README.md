@@ -5,7 +5,7 @@
   </a> 
 </div>  
 <h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>  
-<br/>     
+<br/>    
    
 ###Full-Stack Developer and CyberSecurity Graduate. 💻  
 * 👨‍💻  Currently mostly into web & mobile Application Development.
