@@ -15,7 +15,7 @@
 * 🖥️  Check out my portfolio at [<i>simon-zerisenay</i>](https://simon-zerisenay.github.io/PersonalPortfolio/)
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
 
-<br /> 
+<br />  
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/>
 
