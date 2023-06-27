@@ -13,7 +13,7 @@
 * 🏫  Working as a FullStack Developer and Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🌍  Based in UAE  🇦🇪
 * 🖥️  Check out my portfolio at [<i>simon-zerisenay</i>](https://simon-zerisenay.github.io/PersonalPortfolio/)
-* 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker] 
+* 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker]  
 
 <br />  
  
