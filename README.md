@@ -2,7 +2,7 @@
 <div align="center" style="margin-bottom=100px">
   <a>
     <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
-  </a>   
+  </a>    
 </div>  
 <h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>  
 <br/>    
