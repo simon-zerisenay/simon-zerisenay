@@ -77,22 +77,6 @@
   </a>
 </div>
 <br/>
-<h2 align="center"> 42 School Projects </h2>
-<br/>
-<div align="center">
-  
-<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_BorntobeRoot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
-<a href="https://github.com/simon-zerisenay/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
-<a href="https://github.com/simon-zerisenay/SuperCube3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
- </div>
-  <br/>
 <h2 align="center"> Personal Projects </h2>
                                                 
 <div align="center" >
@@ -110,6 +94,23 @@
    
    
    </div>  
+   <br/>
+<h2 align="center"> 42 School Projects </h2>
+<br/>
+<div align="center">
+  
+<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_BorntobeRoot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
+<a href="https://github.com/simon-zerisenay/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
+<a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
+<a href="https://github.com/simon-zerisenay/SuperCube3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
+ </div>
+ 
   <br/>
   <div align="center">
   <h4> ✍️ Dev Quote of the Day</h4>
