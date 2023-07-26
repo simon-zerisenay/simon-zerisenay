@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
   </a>    
 </div>  
-<h2 align="center">I'm Simon Zerisenay Ghebremeskel </h2>  
+<h2 align="center">I'm Simon </h2>  
 <br/>    
   
 ###Full-Stack Developer and CyberSecurity Graduate. 💻  
