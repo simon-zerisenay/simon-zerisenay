@@ -2,7 +2,7 @@
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
 </a>
-</div> 
+</div>  
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 <div align="center" style="margin-bottom=100px">
   <a>
