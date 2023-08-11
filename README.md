@@ -1,8 +1,4 @@
-<div align=center>
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a> 
-</div>  
+ 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 <div align="center" style="margin-bottom=100px">
   <a>
@@ -56,6 +52,11 @@
 <br />
 <br />
                                                           <h3 align="center"> 📊 My GitHub Stats </h3>
+                                                          <div align=center>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
+</a> 
+</div> 
 <div align="center">
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&show_icons=true&langs_count=10" alt="Simon's GitHub stats" /></a>
