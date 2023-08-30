@@ -11,7 +11,7 @@
 ###Full-Stack Developer and CyberSecurity Graduate. 💻  
 * 👨‍💻  Currently mostly into web & mobile Application Development.
 * 🎓  CyberSecurity Graduate <a href="https://acpass.zu.ac.ae/en/credentials/shared/94efe23c2fbe07e133553c47af0e54ca"><i>Graduate Diploma</i></a>
-* 🏫  Working as a FullStack Developer and Studying Software Engineering @ [42 Abu Dhabi](https://42abudhabi.ae) 
+* 🏫  Working as a FullStack Developer   
 * 🌍  Based in UAE  🇦🇪
 * 🖥️  Check out my portfolio at [<i>simon-zerisenay</i>](https://simon-zerisenay.github.io/PersonalPortfolio/) 
 * 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker]  
