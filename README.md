@@ -97,6 +97,9 @@
    <a href="https://github.com/simon-zerisenay/Student-Guide-and-Qoura" target="_blank">
     <img src="https://github.com/simon-zerisenay/Student-Guide-and-Qoura/blob/master/StudentGuidenQoura.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
+  <a href="https://github.com/simon-zerisenay/FireGuardVision" target="_blank">
+    <img src="https://github.com/simon-zerisenay/PersonalPortfolio/blob/main/assets/img/fireguard.PNG"  padding="20" height="170" width="200" alt="twitter logo"  />
+  </a>
    
    
    </div>  
