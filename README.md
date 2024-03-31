@@ -104,7 +104,7 @@
    
    </div>  
    <br/>
-<h2 align="center"> 42 School Projects </h2>
+<h2 align="center"> 42 Projects </h2>
 <br/>
 <div align="center">
   
